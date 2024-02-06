@@ -1,9 +1,3 @@
-<style type="text/css" rel="stylesheet">
-  p > a {
-    margin-right: 10px;
-  }
-</style>
-
 <h1 align="center">Hi 👋, I'm Skander HAMDI</h1>
 <h3 align="center">Flutter [Andorid/iOS] Developer & Machine Learning Engineer</h3>
 
@@ -15,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/alexdz1994" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexdz1994" height="30" width="40" /></a>
+<a style="margin-right: 20px;" href="https://linkedin.com/in/alexdz1994" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexdz1994" height="30" width="40" /></a>
 <a href="https://fb.com/skndrhamdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="skndrhamdi" height="30" width="40" /></a>
 </p>
 
