@@ -1,3 +1,9 @@
+<style>
+  p > a {
+    margin-right: 10px;
+  }
+</style>
+
 <h1 align="center">Hi 👋, I'm Skander HAMDI</h1>
 <h3 align="center">Flutter [Andorid/iOS] Developer & Machine Learning Engineer</h3>
 
